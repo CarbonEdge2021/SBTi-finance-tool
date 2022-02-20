@@ -141,3 +141,6 @@ docker-compose_aws.yml
 
 # Misc
 .noseids
+
+# MacOS
+.DS_Store
